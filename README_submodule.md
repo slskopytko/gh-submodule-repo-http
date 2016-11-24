@@ -1,0 +1,1 @@
+# gh-submodule-repo-http
